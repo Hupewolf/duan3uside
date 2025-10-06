@@ -5,7 +5,7 @@
 }
 
 .head {
-    padding: 20px 80px;
+    padding: 20px 0;
     max-width: 1200px;
     width: 95%;
     margin: 0 auto;
@@ -46,7 +46,7 @@
 /* end head */
 
 section {
-    padding: 80px;
+    padding: 80px 0;
 }
 
 .section1 {
