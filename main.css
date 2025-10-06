@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 30px
 }
 
 .logo-btn {
@@ -20,7 +21,7 @@
 }
 
 .menu-btn {
-    width: 820px;
+    flex: 1;
     height: 34px;
 }
 
