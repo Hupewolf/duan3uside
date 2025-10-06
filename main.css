@@ -6,6 +6,9 @@
 
 .head {
     padding: 20px 80px;
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .contain-head {
@@ -55,6 +58,9 @@ section {
     gap: 30px;
     align-items: center;
     flex-wrap: wrap;
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .inner {
@@ -73,6 +79,7 @@ section {
 
 .title {
     width: 50%;
+    max-width: 600px;
     height: 80px;
     margin: auto;
     margin-bottom: 40px;
