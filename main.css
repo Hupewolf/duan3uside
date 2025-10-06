@@ -87,6 +87,16 @@ section {
     font-family: "Lora", serif;
 }
 
+.title-box {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #E2E2E2;
+    justify-content: center;
+    border-radius: 8px;
+}
+
 .section2 .inner-item {
     width: calc((100% - 60px)/3);
     height: 420px;
