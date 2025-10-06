@@ -26,8 +26,9 @@
     }
 
     .title {
-        width: 100%;
+        width: 95%;
         height: 60px;
+        max-width: none;
     }
 
     .section2 .inner-item {
